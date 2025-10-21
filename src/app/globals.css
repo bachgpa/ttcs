@@ -48,6 +48,29 @@ body {
   font-size: 16px;
   cursor: pointer;
 }
+.deletebtn {
+  transition: 0.2s;
+  background: rgb(0, 0, 0);
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  cursor: pointer;
+  border-radius: 9px;
+  margin: 4px;
+  &:hover {
+    background: rgb(108, 108, 108);
+    /* font-weight: bold; */
+  }
+}
+.ghichu {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+}
 .note_containter {
   margin-top: 24px;
 }
