@@ -1,8 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 đẩy code lên thì
+
 git add .
+
 git commit -m "gì gì đó"
+
 git push
+
 là được
 ## Getting Started
 
